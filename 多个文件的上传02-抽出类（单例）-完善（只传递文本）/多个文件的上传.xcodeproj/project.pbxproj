@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		047FE1B51D71DA0A00973CB1 /* car.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 047FE1B41D71DA0A00973CB1 /* car.jpg */; };
-		047FE1B71D71DA0F00973CB1 /* dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 047FE1B61D71DA0F00973CB1 /* dog.jpg */; };
 		047FE1BC1D71DDF600973CB1 /* FileUploadManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 047FE1BB1D71DDF600973CB1 /* FileUploadManager.m */; };
 		049A9EE11D718029005B744C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A9EE01D718029005B744C /* main.m */; };
 		049A9EE41D718029005B744C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A9EE31D718029005B744C /* AppDelegate.m */; };
@@ -19,8 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		047FE1B41D71DA0A00973CB1 /* car.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = car.jpg; sourceTree = "<group>"; };
-		047FE1B61D71DA0F00973CB1 /* dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog.jpg; sourceTree = "<group>"; };
 		047FE1BA1D71DDF600973CB1 /* FileUploadManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileUploadManager.h; sourceTree = "<group>"; };
 		047FE1BB1D71DDF600973CB1 /* FileUploadManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FileUploadManager.m; sourceTree = "<group>"; };
 		049A9EDC1D718029005B744C /* 多个文件的上传.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "多个文件的上传.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -72,8 +68,6 @@
 				047FE1BA1D71DDF600973CB1 /* FileUploadManager.h */,
 				047FE1BB1D71DDF600973CB1 /* FileUploadManager.m */,
 				049A9EE81D718029005B744C /* Main.storyboard */,
-				047FE1B41D71DA0A00973CB1 /* car.jpg */,
-				047FE1B61D71DA0F00973CB1 /* dog.jpg */,
 				049A9EEB1D718029005B744C /* Assets.xcassets */,
 				049A9EED1D718029005B744C /* LaunchScreen.storyboard */,
 				049A9EF01D718029005B744C /* Info.plist */,
@@ -147,8 +141,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				047FE1B51D71DA0A00973CB1 /* car.jpg in Resources */,
-				047FE1B71D71DA0F00973CB1 /* dog.jpg in Resources */,
 				049A9EEF1D718029005B744C /* LaunchScreen.storyboard in Resources */,
 				049A9EEC1D718029005B744C /* Assets.xcassets in Resources */,
 				049A9EEA1D718029005B744C /* Main.storyboard in Resources */,
